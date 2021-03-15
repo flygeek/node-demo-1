@@ -28,7 +28,7 @@ var server = http.createServer(function(request, response){
       <!DOCTYPE html>
       <head>
         <title>server</title>
-        <link rel="stylesheet" href="./style.css">
+        <link rel="stylesheet" href="/style.css">
       </head>
       <body>
         <h1>这是一个h1标签</h1>
